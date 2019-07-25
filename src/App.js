@@ -23,11 +23,11 @@ function App () {
 			<div>
 				{team.map((member) => {
 					return (
-						<p>
-							{`${member.username}`}
-							{`${member.role}`}
-							{`${member.email}`}
-						</p>
+						<div>
+							<p>{`${member.username}`}</p>
+							<p>{`${member.role}`}</p>
+							<p>{`${member.email}`}</p>
+						</div>
 					);
 				})}
 			</div>
