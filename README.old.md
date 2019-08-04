@@ -1,3 +1,8 @@
+###solution codes
+https://codesandbox.io/s/team-builder-5jp2k
+
+https://github.com/christopherayork/team-builder/tree/Chris-York/src
+
 # Module Project: Forms - Team Builder
 
 This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored Form management in React. You learned about controled inputs, semantic HTML, some ES6 tools like the spread operator and computer properties, and synthetic events. In your project you will demonstrate proficiency of these subjects and principles by creating an application using each of these.
